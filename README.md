@@ -9,7 +9,7 @@ every code is in Assets folder
 <br>
 <a href="https://github.com/AlexTuh/BlackHoleIncedent/blob/master/Assets/ButtonScript.cs">ButtonScript.cs</a> - script for button
 <br>
-<a href=https://github.com/AlexTuh/BlackHoleIncedent/blob/master/Assets/DoorScript.cs"">DoorScript.cs</a> - script for doors
+<a href="https://github.com/AlexTuh/BlackHoleIncedent/blob/master/Assets/DoorScript.cs">DoorScript.cs</a> - script for doors
 <br>
 <a href="https://github.com/AlexTuh/BlackHoleIncedent/blob/master/Assets/FireScript.cs">FireScript.cs</a> - script for fire in the boss fight
 <br>
