@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 85f6274a2605bb144aa70cf991766449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2984017499935354976
+    second: scene trans out -Sheet_0
+  - first:
+      213: -1488225943457987392
+    second: scene trans out -Sheet_1
+  - first:
+      213: -7392823853213439469
+    second: scene trans out -Sheet_2
+  - first:
+      213: 7052091048818286935
+    second: scene trans out -Sheet_3
+  - first:
+      213: 5158010343457490623
+    second: scene trans out -Sheet_4
+  - first:
+      213: -6672322641612687955
+    second: scene trans out -Sheet_5
+  - first:
+      213: -1911787272573209267
+    second: scene trans out -Sheet_6
+  - first:
+      213: 5518980206517104915
+    second: scene trans out -Sheet_7
+  - first:
+      213: 7956233555856972378
+    second: scene trans out -Sheet_8
+  - first:
+      213: -4293595546938773933
+    second: scene trans out -Sheet_9
+  - first:
+      213: 4285653469752412014
+    second: scene trans out -Sheet_10
+  - first:
+      213: 4867476543718098066
+    second: scene trans out -Sheet_11
+  - first:
+      213: 3633174260189732499
+    second: scene trans out -Sheet_12
+  - first:
+      213: 508296501021221627
+    second: scene trans out -Sheet_13
+  - first:
+      213: -6120342001535176572
+    second: scene trans out -Sheet_14
+  - first:
+      213: 4603274153547144873
+    second: scene trans out -Sheet_15
+  - first:
+      213: 573097142876146512
+    second: scene trans out -Sheet_16
+  - first:
+      213: 2794009793126674443
+    second: scene trans out -Sheet_17
+  - first:
+      213: 5150837814753521121
+    second: scene trans out -Sheet_18
+  - first:
+      213: -7559816506254338617
+    second: scene trans out -Sheet_19
+  - first:
+      213: 5129081759291192974
+    second: scene trans out -Sheet_20
+  - first:
+      213: 9086332876646782753
+    second: scene trans out -Sheet_21
+  - first:
+      213: -3498653078233613297
+    second: scene trans out -Sheet_22
+  - first:
+      213: 5949401307558321954
+    second: scene trans out -Sheet_23
+  - first:
+      213: -5653744112006438132
+    second: scene trans out -Sheet_24
+  - first:
+      213: 7827979573173187241
+    second: scene trans out -Sheet_25
+  - first:
+      213: -1158198470764586674
+    second: scene trans out -Sheet_26
+  - first:
+      213: 680396583272554135
+    second: scene trans out -Sheet_27
+  - first:
+      213: -3221028210487947212
+    second: scene trans out -Sheet_28
+  - first:
+      213: -6649726171527981200
+    second: scene trans out -Sheet_29
+  - first:
+      213: 583211198834062080
+    second: scene trans out -Sheet_30
+  - first:
+      213: -552203958804742400
+    second: scene trans out -Sheet_31
+  - first:
+      213: 5847209360103998218
+    second: scene trans out -Sheet_32
+  - first:
+      213: 5916437327402679966
+    second: scene trans out -Sheet_33
+  - first:
+      213: 5400884841055754360
+    second: scene trans out -Sheet_34
+  - first:
+      213: 1492315948143856370
+    second: scene trans out -Sheet_35
+  - first:
+      213: 746772249688787340
+    second: scene trans out -Sheet_36
+  - first:
+      213: 3403260587370305740
+    second: scene trans out -Sheet_37
+  - first:
+      213: 1051627718581173249
+    second: scene trans out -Sheet_38
+  - first:
+      213: -801454829907476857
+    second: scene trans out -Sheet_39
+  - first:
+      213: 8840586821172916481
+    second: scene trans out -Sheet_40
+  - first:
+      213: 1361654618122007637
+    second: scene trans out -Sheet_41
+  - first:
+      213: -6912470057575647805
+    second: scene trans out -Sheet_42
+  - first:
+      213: 109216164195038078
+    second: scene trans out -Sheet_43
+  - first:
+      213: 6702412438699335065
+    second: scene trans out -Sheet_44
+  - first:
+      213: -751156768309708067
+    second: scene trans out -Sheet_45
+  - first:
+      213: 6538492531239904508
+    second: scene trans out -Sheet_46
+  - first:
+      213: 8628565543057597451
+    second: scene trans out -Sheet_47
+  - first:
+      213: 2234797502181168680
+    second: scene trans out -Sheet_48
+  - first:
+      213: -3898995269555304343
+    second: scene trans out -Sheet_49
+  - first:
+      213: 3656717683089482616
+    second: scene trans out -Sheet_50
+  - first:
+      213: 4656150564826827287
+    second: scene trans out -Sheet_51
+  - first:
+      213: 575268414659537212
+    second: scene trans out -Sheet_52
+  - first:
+      213: 9145957815020153576
+    second: scene trans out -Sheet_53
+  - first:
+      213: -3207823690624387885
+    second: scene trans out -Sheet_54
+  - first:
+      213: -2269699480712631338
+    second: scene trans out -Sheet_55
+  - first:
+      213: 2478385212909523652
+    second: scene trans out -Sheet_56
+  - first:
+      213: 7073268971610139363
+    second: scene trans out -Sheet_57
+  - first:
+      213: -1465334921780334103
+    second: scene trans out -Sheet_58
+  - first:
+      213: 1518809937909297441
+    second: scene trans out -Sheet_59
+  - first:
+      213: -6789468115802662445
+    second: scene trans out -Sheet_60
+  - first:
+      213: 8144394138330951675
+    second: scene trans out -Sheet_61
+  - first:
+      213: 3607004474925752752
+    second: scene trans out -Sheet_62
+  - first:
+      213: 8414402339895201312
+    second: scene trans out -Sheet_63
+  - first:
+      213: 6103307733530347766
+    second: scene trans out -Sheet_64
+  - first:
+      213: 383318926672498330
+    second: scene trans out -Sheet_65
+  - first:
+      213: -2354882503458677103
+    second: scene trans out -Sheet_66
+  - first:
+      213: 3375733449796823372
+    second: scene trans out -Sheet_67
+  - first:
+      213: -960418680453897195
+    second: scene trans out -Sheet_68
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

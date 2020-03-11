@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: 16dd463fdeafc384aa1ce2d01ad8f940
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5889634632139655225
+    second: boss death anim-Sheet 1_0
+  - first:
+      213: -297147076538773438
+    second: boss death anim-Sheet 1_1
+  - first:
+      213: 3625867582087437129
+    second: boss death anim-Sheet 1_2
+  - first:
+      213: -7525214861990894527
+    second: boss death anim-Sheet 1_3
+  - first:
+      213: 1036086719297258449
+    second: boss death anim-Sheet 1_4
+  - first:
+      213: 1719882498767216243
+    second: boss death anim-Sheet 1_5
+  - first:
+      213: 2963514961942273088
+    second: boss death anim-Sheet 1_6
+  - first:
+      213: 4488150814777525760
+    second: boss death anim-Sheet 1_7
+  - first:
+      213: 2728703410534925705
+    second: boss death anim-Sheet 1_8
+  - first:
+      213: 3466965139470373471
+    second: boss death anim-Sheet 1_9
+  - first:
+      213: 5452601978791092498
+    second: boss death anim-Sheet 1_10
+  - first:
+      213: 4513770538661481539
+    second: boss death anim-Sheet 1_11
+  - first:
+      213: 5598227249155491657
+    second: boss death anim-Sheet 1_12
+  - first:
+      213: 3338688811431717698
+    second: boss death anim-Sheet 1_13
+  - first:
+      213: -4389252652987930621
+    second: boss death anim-Sheet 1_14
+  - first:
+      213: 8863765880718216383
+    second: boss death anim-Sheet 1_15
+  - first:
+      213: 1881203006393217703
+    second: boss death anim-Sheet 1_16
+  - first:
+      213: -1925006537905042126
+    second: boss death anim-Sheet 1_17
+  - first:
+      213: 1828127413988609069
+    second: boss death anim-Sheet 1_18
+  - first:
+      213: 6000638162177816983
+    second: boss death anim-Sheet 1_19
+  - first:
+      213: 8675479448532523914
+    second: boss death anim-Sheet 1_20
+  - first:
+      213: -9082456802235170179
+    second: boss death anim-Sheet 1_21
+  - first:
+      213: -4611845596636859039
+    second: boss death anim-Sheet 1_22
+  - first:
+      213: -2414813775039304709
+    second: boss death anim-Sheet 1_23
+  - first:
+      213: 461719399937989675
+    second: boss death anim-Sheet 1_24
+  - first:
+      213: -382436411598940664
+    second: boss death anim-Sheet 1_25
+  - first:
+      213: -3514233462279751556
+    second: boss death anim-Sheet 1_26
+  - first:
+      213: 1310399667015474532
+    second: boss death anim-Sheet 1_27
+  - first:
+      213: -6888492481947879487
+    second: boss death anim-Sheet 1_28
+  - first:
+      213: -5479095401122108724
+    second: boss death anim-Sheet 1_29
+  - first:
+      213: 7537647776628963708
+    second: boss death anim-Sheet 1_30
+  - first:
+      213: 9023396555749150216
+    second: boss death anim-Sheet 1_31
+  - first:
+      213: -7880096988984596040
+    second: boss death anim-Sheet 1_32
+  - first:
+      213: -7301066673204879372
+    second: boss death anim-Sheet 1_33
+  - first:
+      213: -7007214845483521393
+    second: boss death anim-Sheet 1_34
+  - first:
+      213: 4597812958536434706
+    second: boss death anim-Sheet 1_35
+  - first:
+      213: 7205828633208862533
+    second: boss death anim-Sheet 1_36
+  - first:
+      213: -6782566356903254147
+    second: boss death anim-Sheet 1_37
+  - first:
+      213: 7238809157688635247
+    second: boss death anim-Sheet 1_38
+  - first:
+      213: -2336312766068576924
+    second: boss death anim-Sheet 1_39
+  - first:
+      213: -195670908539093261
+    second: boss death anim-Sheet 1_40
+  - first:
+      213: -8102488067070286892
+    second: boss death anim-Sheet 1_41
+  - first:
+      213: -8931059450362503237
+    second: boss death anim-Sheet 1_42
+  - first:
+      213: -2532921050729513671
+    second: boss death anim-Sheet 1_43
+  - first:
+      213: 8998686354995721590
+    second: boss death anim-Sheet 1_44
+  - first:
+      213: 8087582399750599215
+    second: boss death anim-Sheet 1_45
+  - first:
+      213: -1052194295938318163
+    second: boss death anim-Sheet 1_46
+  - first:
+      213: -496252180795039105
+    second: boss death anim-Sheet 1_47
+  - first:
+      213: 2915308329407460518
+    second: boss death anim-Sheet 1_48
+  - first:
+      213: -2253000242069258791
+    second: boss death anim-Sheet 1_49
+  - first:
+      213: -5275362620803338922
+    second: boss death anim-Sheet 1_50
+  - first:
+      213: -1059627149482327799
+    second: boss death anim-Sheet 1_51
+  - first:
+      213: 354654889289773486
+    second: boss death anim-Sheet 1_52
+  - first:
+      213: 4704164304971765827
+    second: boss death anim-Sheet 1_53
+  - first:
+      213: 7140429626266616014
+    second: boss death anim-Sheet 1_54
+  - first:
+      213: 2990028718659312437
+    second: boss death anim-Sheet 1_55
+  - first:
+      213: -2658696851025184919
+    second: boss death anim-Sheet 1_56
+  - first:
+      213: -1895045721618695289
+    second: boss death anim-Sheet 1_57
+  - first:
+      213: -2032177916618474139
+    second: boss death anim-Sheet 1_58
+  - first:
+      213: 1727793078662685406
+    second: boss death anim-Sheet 1_59
+  - first:
+      213: 5592198264097172321
+    second: boss death anim-Sheet 1_60
+  - first:
+      213: 6563474127945137564
+    second: boss death anim-Sheet 1_61
+  - first:
+      213: 7839563350995335586
+    second: boss death anim-Sheet 1_62
+  - first:
+      213: -7406252775830855913
+    second: boss death anim-Sheet 1_63
+  - first:
+      213: -1736998914611086148
+    second: boss death anim-Sheet 1_64
+  - first:
+      213: -2147611749131022458
+    second: boss death anim-Sheet 1_65
+  - first:
+      213: 3149465033081972993
+    second: boss death anim-Sheet 1_66
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c5894e7f2cb150800000000000000
+      internalID: 5889634632139655225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405cd8ee4250ebf0800000000000000
+      internalID: -297147076538773438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b1de0fa5ba15230800000000000000
+      internalID: 3625867582087437129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ea8c04f0119790800000000000000
+      internalID: -7525214861990894527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3863cb16be06e00800000000000000
+      internalID: 1036086719297258449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5e6235004ed710800000000000000
+      internalID: 1719882498767216243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cdf111825802920800000000000000
+      internalID: 2963514961942273088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c135036d194e30800000000000000
+      internalID: 4488150814777525760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c45a6b4d4ed520800000000000000
+      internalID: 2728703410534925705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525bc2fc622d1030800000000000000
+      internalID: 3466965139470373471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116f6f4c988bab40800000000000000
+      internalID: 5452601978791092498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8a82d36224ae30800000000000000
+      internalID: 4513770538661481539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94743ddb506e0bd40800000000000000
+      internalID: 5598227249155491657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 47
+        width: 225
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b65fce8c7655e20800000000000000
+      internalID: 3338688811431717698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 47
+        width: 226
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a635a7fd3613c0800000000000000
+      internalID: -4389252652987930621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 47
+        width: 228
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbccf643b1c620b70800000000000000
+      internalID: 8863765880718216383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 47
+        width: 228
+        height: 138
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f672da206b1a10800000000000000
+      internalID: 1881203006393217703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799f242ad9c864350800000000000000
+      internalID: 6000638162177816983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b9bf1089e756870800000000000000
+      internalID: 8675479448532523914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss death anim-Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7241f6c8a1a4f180800000000000000
+      internalID: -9082456802235170179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
